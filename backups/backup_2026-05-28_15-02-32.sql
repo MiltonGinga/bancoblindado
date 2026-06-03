@@ -1,0 +1,2 @@
+-- Backup Simulado em 2026-05-28_15-02-32
+-- Dados da tabela clientes exportados com sucesso.

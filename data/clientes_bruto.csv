@@ -1,0 +1,6 @@
+id,nome,email,senha,telefone,endereco,data_cadastro,valor_ultima_compra
+1,João Silva,joao@email.com,senha123,912345678,Rua A Luanda,2024-01-10,150.50
+2,Maria Souza,maria@email.com,segredo456,923456789,Av. Brasil Luanda,2024-02-15,2500.00
+3,Pedro Santos,pedro@email.com,123456,934567890,Rua C Talatona,2024-03-20,75.25
+4,Ana Costa,ana@email.com,admin123,945678901,Viana Luanda,2024-04-05,1200.00
+5,Lucas Pereira,lucas@email.com,lucas2024,956789012,Maianga Luanda,2024-05-12,300.00
